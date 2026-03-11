@@ -25,3 +25,6 @@ Este proyecto presenta un dashboard interactivo construido en Power BI para anal
 Superstore dataset (retail sales data).
 
 ## Vista previa del dashboard
+
+
+<img width="1059" height="618" alt="Captura de pantalla 2026-03-11 174537" src="https://github.com/user-attachments/assets/d2669a1b-6a4c-4d52-896a-3aaa76d81744" />
